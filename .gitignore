@@ -7,4 +7,4 @@ dist
 .env.production
 
 ./src/uploads
-/uploads
+./uploads
